@@ -1,5 +1,7 @@
 # SniffClassifier
 ML code for classisfying respiratory patterns used in Johnson et al 2024
+https://www.biorxiv.org/content/10.1101/2024.02.19.581052v2
+
 
 
 - Overview:
